@@ -1,0 +1,631 @@
+[
+    {
+        "name": "Jardin de Corinthe",
+        "address": "18 Boulevard Françoise Duparc, 13004 Marseille",
+        "url": "https://www.marseille.fr/equipements/parcs-jardins/jardin-de-corinthe",
+        "description": "Ce jardin de 1 700 m2 se situe au cœur du quartier de la Blancarde. Des allées gravillonnées et bétonnées mènent à une zone centrale où se trouve une fontaine. On y trouve aussi une aire de jeux pour enfants et des tables de ping-pong."
+    },
+    {
+        "name": "Pablo Casals",
+        "address": "Rue Pablo Casals, 13010 Marseille",
+        "url": "https://www.marseille.fr/equipements/parcs-jardins/pablo-casals",
+        "description": "Ce parc de 10 000 m2 offre une aire de jeux pour enfants, un terrain de pétanque et des tables de ping-pong. On peut également y admirer une statue de Pablo Casals, célèbre violoncelliste et chef d'orchestre espagnol."
+    },
+    {
+        "name": "Square Raymond Teisseire",
+        "address": "29 Avenue des Goumiers, 13008 Marseille",
+        "url": "https://www.marseille.fr/equipements/parcs-jardins/square-raymond-teisseire",
+        "description": "Ce square de 1 500 m2 est situé à proximité de la plage du Prado. Il offre des jeux pour enfants, des bancs à l'ombre et une fontaine rafraîchissante en été."
+    },
+    {
+        "name": "Jardin de Benedetti",
+        "address": "Rue Sainte-Victorine, 13003 Marseille",
+        "url": "https://www.marseille.fr/equipements/parcs-jardins/jardin-de-benedetti",
+        "description": "Ce jardin de 3 300 m2 est situé dans le quartier de la Belle-de-Mai. Il offre des espaces verts, une aire de jeux pour enfants et des terrains de pétanque."
+    },
+    {
+        "name": "Jardin Perier",
+        "address": "29 Rue Jean de Bernardy, 13001 Marseille",
+        "url": "https://www.marseille.fr/equipements/parcs-jardins/jardin-perier",
+        "description": "Ce jardin de 1 200 m2 se situe à proximité du Vieux-Port. On y trouve une aire de jeux pour enfants, une fontaine et des bancs à l'ombre."
+    },
+    {
+        "name": "Jardin de Saint Marcel",
+        "address": "Rue Sainte-Cécile, 13011 Marseille",
+        "url": "https://www.marseille.fr/equipements/parcs-jardins/jardin-de-saint-marcel",
+        "description": "Ce jardin de 2 000 m2 est situé dans le quartier de Saint-Marcel. Il offre une aire de jeux pour enfants, une fontaine et des bancs à l'ombre."
+    },
+    {
+        "name": "Jardin du Vallon des Tuves",
+        "address": "Boulevard du Bosphore, 13015 Marseille",
+        "url": "",
+        "description": "Le Jardin du Vallon des Tuves est un petit parc situé sur le Boulevard du Bosphore, dans le 15ème arrondissement de Marseille. Il offre une vue panoramique sur la ville et est connu pour ses beaux espaces verts et ses chemins de promenade."
+    },
+    {
+        "name": "Jardin Pigala",
+        "address": "Impasse Pigala, Marseille",
+        "url": "",
+        "description": "Le Jardin Pigala est un petit parc situé dans l'Impasse Pigala à Marseille. Il offre une atmosphère paisible et agréable, avec des arbres et des bancs pour se reposer. C'est un endroit parfait pour se détendre et échapper au bruit de la ville."
+    },
+    {
+        "name": "Jardin Fraissinet",
+        "address": "Rue Saint Pierre, Marseille",
+        "url": "",
+        "description": "Le Jardin Fraissinet est un parc de quartier situé dans la rue Saint Pierre à Marseille. Il est connu pour ses beaux arbres et ses espaces verts bien entretenus. C'est un endroit idéal pour une promenade tranquille ou pour se détendre avec un livre."
+    },
+    {
+        "name": "Parc Val Plan",
+        "address": "Rue Leon d'Astros, Marseille",
+        "url": "",
+        "description": "Le Parc Val Plan est un grand parc situé dans la rue Leon d'Astros à Marseille. Il offre de vastes étendues d'espaces verts et des sentiers de promenade, ainsi que des installations pour les enfants comme une aire de jeux et des terrains de sport. C'est un endroit populaire pour les pique-niques et les activités de plein air."
+    },
+    {
+        "name": "Jardin Mireille Lauze",
+        "address": "Boulevard Mireille Lauze, Marseille",
+        "url": "",
+        "description": "Le Jardin Mireille Lauze est un petit parc situé sur le Boulevard Mireille Lauze à Marseille. Il offre une vue panoramique sur la ville et est connu pour ses beaux espaces verts et ses chemins de promenade. C'est un endroit agréable pour se détendre et profiter de la nature."
+    },
+    {
+        "name": "Square Stephan",
+        "address": "Rue Edouard Stephan, Marseille",
+        "url": "",
+        "description": "Le Square Stephan est un petit parc situé dans la rue Edouard Stephan à Marseille. Il offre une atmosphère paisible et agréable, avec des arbres et des bancs pour se reposer. C'est un endroit parfait pour se détendre et échapper au bruit de la ville."
+    },
+    {
+        "name": "Jardin de la Falaise",
+        "address": "Boulevard Falaise, Marseille",
+        "url": "",
+        "description": "Le Jardin de la Falaise est un petit parc situé sur le Boulevard Falaise à Marseille. Il offre une vue magnifique sur la mer Méditerranée et les îles du Frioul."
+    },
+    {
+        "name": "Jardin Gerald Neveu",
+        "address": "Rue Raymond Teisseire, Marseille",
+        "url": "",
+        "description": "Le Jardin Gerald Neveu est un parc de quartier situé sur la Rue Raymond Teisseire à Marseille. Il est connu pour ses aires de jeux pour enfants et ses espaces verts ombragés."
+    },
+    {
+        "name": "Jardin Georges Brassens",
+        "address": "Boulevard de la Savine, Marseille",
+        "url": "",
+        "description": "Le Jardin Georges Brassens est un grand parc urbain situé sur le Boulevard de la Savine à Marseille. Il offre de nombreuses installations de loisirs, notamment des terrains de sport, des aires de jeux pour enfants et un parcours de santé."
+    },
+    {
+        "name": "Jardin Aspirant Versini",
+        "address": "Boulevard Merle, Marseille",
+        "url": "",
+        "description": "Le Jardin Aspirant Versini est un petit parc public situé sur le Boulevard Merle à Marseille. Il est connu pour ses aires de jeux pour enfants et ses espaces verts ombragés."
+    },
+    {
+        "name": "Jardin Lacedemone",
+        "address": "Rue Lacedemone, Marseille",
+        "url": "",
+        "description": "Le Jardin Lacedemone est un parc de quartier situé sur la Rue Lacedemone à Marseille. Il est connu pour ses espaces verts ombragés et son calme."
+    },
+    {
+        "name": "Jardin de la Mathilde",
+        "address": "Boulevard de la Gaye, Marseille",
+        "url": "",
+        "description": "Le Jardin de la Mathilde est un petit parc situé sur le Boulevard de la Gaye à Marseille. Il offre un espace de verdure agréable pour se reposer et se détendre."
+    },
+    {
+        "name": "Les Micocouliers",
+        "address": "Boulevard Paul Claudel, Marseille",
+        "url": "",
+        "description": "Les Micocouliers est un petit parc de quartier situé sur le Boulevard Paul Claudel à Marseille. Il est connu pour ses aires de jeux pour enfants et ses espaces verts ombragés."
+    },
+    {
+        "name": "Jardin du corbusier",
+        "address": "Boulevard Michelet, Marseille",
+        "url": "",
+        "description": "Le Jardin du corbusier est un parc situé sur le Boulevard Michelet à Marseille. Il est connu pour son architecture moderne et sa vue sur la ville."
+    },
+    {
+        "name": "Jardin Botanique",
+        "address": "48 avenue Clot Bey, Marseille",
+        "url": "",
+        "description": "Le Jardin Botanique de Marseille est un jardin de quatre hectares créé en 1991. Il compte une collection de plus de 3 000 plantes originaires de cinq régions du monde : Californie, Chili, Afrique du Sud, bassin méditerranéen et Australie."
+    },
+    {
+        "name": "Square des Marseillaises",
+        "address": "Place des Marseillaises, Marseille",
+        "url": "",
+        "description": "Le Square des Marseillaises est un petit jardin public situé dans le centre-ville de Marseille. Il est dédié aux femmes marseillaises et leur rend hommage à travers des sculptures et des inscriptions sur des bancs."
+    },
+    {
+        "name": "Jardin des Aloades",
+        "address": "Traverse Prat",
+        "url": "",
+        "description": "Le Jardin des Aloades est un petit jardin situé dans le quartier de Saint-Barnabé. Il doit son nom à une légende grecque selon laquelle les Aloades étaient deux géants qui s'attaquèrent à l'Olympe."
+    },
+    {
+        "name": "Jardin du Juge Michel",
+        "address": "Place Monthyon, Marseille",
+        "url": "",
+        "description": "Le Jardin du Juge Michel est un petit jardin situé dans le quartier de Baille. Il doit son nom au juge Michel, qui a été assassiné en 1981 par une organisation terroriste. Le jardin est un lieu de recueillement en sa mémoire."
+    },
+    {
+        "name": "Jardin de la Perrine",
+        "address": "Traverse de la Fourragere, Marseille",
+        "url": "",
+        "description": "Le Jardin de la Perrine est un petit jardin public situé dans le quartier de la Fourragère. Il est aménagé sur une ancienne carrière et offre une vue panoramique sur la ville."
+    },
+    {
+        "name": "Jardin des Reinettes",
+        "address": "Promenade du Grand Large, Marseille",
+        "url": "",
+        "description": "Le Jardin des Reinettes est un petit jardin situé sur la corniche Kennedy. Il offre une vue imprenable sur la mer et les îles du Frioul. Le nom du jardin est inspiré d'une variété de pommes."
+    },
+    {
+        "name": "Square Manouchian",
+        "address": "Boulevard Charles Livon, Marseille",
+        "url": "",
+        "description": "Le Square Manouchian est un petit jardin public situé en bord de mer, à proximité du Fort Saint-Nicolas. Il doit son nom à Missak Manouchian, un résistant arménien qui a été fusillé par les nazis en 1944. Le jardin est un lieu de mémoire en sa mémoire."
+    },
+    {
+        "name": "Jardin du Pradel",
+        "address": "Boulevard Henri Barnier, Marseille",
+        "url": "",
+        "description": "Le Jardin du Pradel est un petit parc avec une aire de jeux pour enfants, des tables de pique-nique et un terrain de pétanque."
+    },
+    {
+        "name": "Jardin de la Porte d'Aix",
+        "address": "Place Jules Guesde, Marseille",
+        "url": "",
+        "description": "Le Jardin de la Porte d'Aix est un parc public avec une grande fontaine, des bancs et des arbres pour se détendre."
+    },
+    {
+        "name": "Jardin Bonniot",
+        "address": "Avenue Bonniot, Marseille",
+        "url": "",
+        "description": "Le Jardin Bonniot est un petit parc ombragé avec une aire de jeux pour enfants et des bancs pour se reposer."
+    },
+    {
+        "name": "Square Lamy",
+        "address": "Rue du Commandant Lamy, Marseille",
+        "url": "",
+        "description": "Le Square Lamy est un petit parc avec des arbres, des fleurs et des bancs pour se reposer."
+    },
+    {
+        "name": "Jardin de Saint Menet",
+        "address": "Avenue de Saint Menet, Marseille",
+        "url": "",
+        "description": "Le Jardin de Saint Menet est un parc ombragé avec une aire de jeux pour enfants, des tables de pique-nique et des bancs pour se détendre."
+    },
+    {
+        "name": "Jardin de la Pauline",
+        "address": "Boulevard Romain Rolland, Marseille",
+        "url": "",
+        "description": "Le Jardin de la Pauline est un parc public avec des pelouses, des arbres et des bancs pour se détendre."
+    },
+    {
+        "name": "Jardin Infossi",
+        "address": "Traverse Alexis Breysse, Marseille",
+        "url": "",
+        "description": "Le Jardin Infossi est un petit parc avec des bancs, des arbres et une aire de jeux pour enfants."
+    },
+    {
+        "name": "Jardin Beau Sainte Elisabeth",
+        "address": "Rue Beau, Marseille",
+        "url": "",
+        "description": "Le Jardin Beau Sainte Elisabeth est un petit parc avec une fontaine, des bancs et des arbres pour se détendre."
+    },
+    {
+        "name": "Jardin des Camoins",
+        "address": "Chemin des Mines, Marseille",
+        "url": "",
+        "description": "Le Jardin des Camoins est un parc ombragé avec une aire de jeux pour enfants, des tables de pique-nique et des bancs pour se détendre."
+    },
+    {
+        "name": "Jardin Batani",
+        "address": "Avenue de la Martheline, Marseille",
+        "url": "",
+        "description": "Le Jardin Batani est un petit jardin public situé dans le quartier de la Capelette. Il offre un espace de détente et de verdure pour les habitants du quartier."
+    },
+    {
+        "name": "Jardin des Vestiges",
+        "address": "Rue Henri Barbusse, Marseille",
+        "url": "",
+        "description": "Le Jardin des Vestiges est un parc archéologique situé dans le centre-ville de Marseille. Il abrite les vestiges de la ville antique de Massilia et offre une belle vue sur le Vieux-Port."
+    },
+    {
+        "name": "Jardin du Cabot",
+        "address": "Boulevard de la Gaye, Marseille",
+        "url": "",
+        "description": "Le Jardin du Cabot est un parc situé dans le 9ème arrondissement de Marseille. Il offre un cadre paisible et agréable pour se promener ou se détendre."
+    },
+    {
+        "name": "Square Yves Montand",
+        "address": "Place Jean Jaures, Marseille",
+        "url": "",
+        "description": "Le Square Yves Montand est un petit jardin public situé dans le quartier de la Belle de Mai. Il doit son nom au célèbre acteur et chanteur qui est né dans le quartier en 1921."
+    },
+    {
+        "name": "Jardin Zenatti",
+        "address": "Avenue Andre Zenatti, Marseille",
+        "url": "",
+        "description": "Le Jardin Zenatti est un petit parc situé dans le 8ème arrondissement de Marseille. Il offre un espace de verdure et de détente pour les habitants du quartier."
+    },
+    {
+        "name": "Jardin Emmanuel Vitria",
+        "address": "17 rue Condorcet, Marseille",
+        "url": "",
+        "description": "Le Jardin Emmanuel Vitria est un petit parc situé dans le 16ème arrondissement de Marseille. Il offre un espace de verdure et de détente pour les habitants du quartier."
+    },
+    {
+        "name": "Jardin de la panetiere",
+        "address": "Rue Raymond Fillat, Marseille",
+        "url": "",
+        "description": "Le Jardin de la panetiere est un petit parc situé dans le quartier de la Capelette. Il offre un espace de verdure et de détente pour les habitants du quartier."
+    },
+    {
+        "name": "Jardin des Trois Lucs",
+        "address": "Avenue des Poilus, Marseille",
+        "url": "",
+        "description": "Le Jardin des Trois Lucs est un petit parc situé dans le 12ème arrondissement de Marseille. Il offre un espace de verdure et de détente pour les habitants du quartier."
+    },
+    {
+        "name": "Jardin Mont Rose",
+        "address": "Rue Copello, Marseille",
+        "url": "",
+        "description": "Le Jardin Mont Rose est un petit parc situé dans le quartier du Rouet. Il offre un espace de verdure et de détente pour les habitants du quartier."
+    },
+    {
+        "name": "Square Melizan",
+        "address": "Boulevard Rabatau, Marseille",
+        "url": "",
+        "description": "Le Square Melizan est un petit jardin public situé sur le boulevard Rabatau à Marseille. Il offre un espace de détente et de verdure en plein centre-ville."
+    },
+    {
+        "name": "Jardin de la Bigotte",
+        "address": "Chemin des Bourellys, Marseille",
+        "url": "",
+        "description": "Le Jardin de la Bigotte est un petit parc situé sur le chemin des Bourellys à Marseille. Il est réputé pour sa vue panoramique sur la ville et sur la mer."
+    },
+    {
+        "name": "Square Gustave Ganay",
+        "address": "Boulevard Gustave Ganay, Marseille",
+        "url": "",
+        "description": "Le Square Gustave Ganay est un parc public situé sur le boulevard Gustave Ganay à Marseille. Il propose plusieurs aires de jeux pour les enfants et des espaces de détente pour les adultes."
+    },
+    {
+        "name": "Jardin Labadie",
+        "address": "Place Labadie, Marseille",
+        "url": "",
+        "description": "Le Jardin Labadie est un petit jardin public situé sur la place Labadie à Marseille. Il offre un espace de détente et de verdure en plein cœur du quartier historique du Panier."
+    },
+    {
+        "name": "Jardin Bernabo",
+        "address": "Boulevard Bernabo, Marseille",
+        "url": "",
+        "description": "Le Jardin Bernabo est un parc public situé sur le boulevard Bernabo à Marseille. Il propose plusieurs aires de jeux pour les enfants ainsi que des terrains de sport pour les adultes."
+    },
+    {
+        "name": "Jardin de la Capelette",
+        "address": "Avenue de la Capelette, Marseille",
+        "url": "",
+        "description": "Le Jardin de la Capelette est un grand parc public situé sur l'avenue de la Capelette à Marseille. Il offre de vastes espaces verts ainsi que des aires de jeux pour les enfants et des terrains de sport pour les adultes."
+    },
+    {
+        "name": "Jardin de la Corderie",
+        "address": "Boulevard de la Corderie, Marseille",
+        "url": "",
+        "description": "Le Jardin de la Corderie est un parc public situé sur le boulevard de la Corderie à Marseille. Il offre un espace de détente et de verdure en bordure de mer."
+    },
+    {
+        "name": "Jardin Felicien David",
+        "address": "Boulevard d'Haiti, Marseille",
+        "url": "",
+        "description": "Le Jardin Felicien David est un parc public situé sur le boulevard d'Haiti à Marseille. Il propose plusieurs aires de jeux pour les enfants ainsi que des espaces de détente pour les adultes."
+    },
+    {
+        "name": "Jardin Gavot",
+        "address": "90 chemin de la Viste, Marseille",
+        "url": "",
+        "description": "Le Jardin Gavot est un petit jardin public situé sur le chemin de la Viste à Marseille."
+    },
+    {
+        "name": "Jardin Jules Moulet",
+        "address": "Rue Jules Moulet",
+        "url": "",
+        "description": "Le Jardin Jules Moulet est un petit parc paisible situé dans le 14ème arrondissement de Marseille. Il offre un espace de verdure agréable pour se détendre et se promener, avec des bancs à l'ombre des arbres et des sentiers pour se balader."
+    },
+    {
+        "name": "Jardin de la Barasse",
+        "address": "Boulevard de la Barasse",
+        "url": "",
+        "description": "Le Jardin de la Barasse est un grand parc urbain situé dans le 11ème arrondissement de Marseille. Il est idéal pour les promenades en famille ou les activités sportives, avec des aires de jeux pour enfants, des terrains de sport et des sentiers pour se balader."
+    },
+    {
+        "name": "Jardin de la Magalone",
+        "address": "Boulevard Michelet",
+        "url": "",
+        "description": "Le Jardin de la Magalone est un parc verdoyant situé dans le 9ème arrondissement de Marseille. Il offre un cadre paisible pour se promener ou se détendre, avec des sentiers ombragés, des aires de repos et une belle vue sur la ville."
+    },
+    {
+        "name": "Jardin Joseph Chabaud",
+        "address": "Avenue Elsa Triolet",
+        "url": "",
+        "description": "Le Jardin Joseph Chabaud est un petit parc situé dans le 13ème arrondissement de Marseille. Il est connu pour son kiosque à musique et son aire de jeux pour enfants, ainsi que pour son atmosphère paisible et agréable."
+    },
+    {
+        "name": "Square Lord Duveen",
+        "address": "Boulevard Lord Duveen",
+        "url": "",
+        "description": "Le Square Lord Duveen est un petit parc situé dans le 8ème arrondissement de Marseille. Il offre un espace de verdure agréable pour se détendre et se promener, avec des bancs à l'ombre des arbres et des sentiers pour se balader."
+    },
+    {
+        "name": "Jardin Vallier",
+        "address": "Boulevard Francoise Duparc",
+        "url": "",
+        "description": "Le Jardin Vallier est un parc situé dans le 8ème arrondissement de Marseille. Il est apprécié pour ses jardins bien entretenus et son aire de jeux pour enfants, ainsi que pour son atmosphère paisible et agréable."
+    },
+    {
+        "name": "Parc Val Ombre",
+        "address": "Route Nationale de la Viste",
+        "url": "",
+        "description": "Le Parc Val Ombre est un grand parc urbain situé dans le 15ème arrondissement de Marseille. Il est idéal pour les promenades en famille ou les activités sportives, avec des aires de jeux pour enfants, des terrains de sport et des sentiers pour se balader."
+    },
+    {
+        "name": "Jardin Velten",
+        "address": "Angle Boulevard Velten et avenue des Chutes lavie",
+        "url": "",
+        "description": "Ce petit jardin public offre un espace vert paisible et agréable pour se détendre. Il est situé à l'angle du Boulevard Velten et de l'Avenue des Chutes Lavie."
+    },
+    {
+        "name": "Jardin des fonderies de Provence",
+        "address": "Angle rues Benjamin Delessert et Verdilhan",
+        "url": "",
+        "description": "Le Jardin des fonderies de Provence est un parc public de 1,4 hectares situé dans le 13ème arrondissement de Marseille. Il offre une aire de jeux pour les enfants, un espace pique-nique et de nombreuses zones ombragées."
+    },
+    {
+        "name": "Square Edmond Rostand",
+        "address": "Angle rues Edmond Rostand et Saint Suffren",
+        "url": "",
+        "description": "Le Square Edmond Rostand est un petit parc public situé dans le 6ème arrondissement de Marseille. Il est idéal pour une promenade tranquille ou pour une pause détente en pleine nature."
+    },
+    {
+        "name": "ND de la Garde Cheminement pieton",
+        "address": "Rue du Bois Sacre",
+        "url": "",
+        "description": "Le chemin piéton de Notre-Dame de la Garde est un parcours pédestre qui permet de découvrir les merveilles architecturales et les vues panoramiques de Marseille. Il débute rue du Bois Sacré et mène jusqu'à la basilique Notre-Dame de la Garde."
+    },
+    {
+        "name": "Jardin de la Pugette",
+        "address": "Avenue Mistral et rue Augustin Aubert",
+        "url": "",
+        "description": "Le Jardin de la Pugette est un petit parc public situé dans le 8ème arrondissement de Marseille. Il offre une aire de jeux pour les enfants, un espace pique-nique et de nombreuses zones ombragées pour se détendre en toute tranquillité."
+    },
+    {
+        "name": "Square Caporal Antoine Odone",
+        "address": "Boulevard Romain Rolland",
+        "url": "",
+        "description": "Le Square Caporal Antoine Odone est un petit parc public situé dans le 9ème arrondissement de Marseille. Il est idéal pour une promenade tranquille ou pour une pause détente en pleine nature."
+    },
+    {
+        "name": "Promenade de l'huveaune",
+        "address": "Bd Gabes - Av de Mazargues",
+        "url": "",
+        "description": "La promenade de l'Huveaune est une voie verte qui longe le cours de l'Huveaune, une rivière qui traverse Marseille. Elle offre une belle balade ombragée et agréable en bordure de l'eau."
+    },
+    {
+        "name": "Jardin esplanade des Goumiers",
+        "address": "Avenue des Goumiers",
+        "url": "",
+        "description": "Un petit jardin de quartier situé sur l'esplanade des Goumiers. Il offre un espace de verdure agréable pour se détendre et se promener."
+    },
+    {
+        "name": "Square Gillet",
+        "address": "Avenue de Montolivet",
+        "url": "",
+        "description": "Un petit square situé sur l'avenue de Montolivet. Il dispose de quelques bancs pour se reposer et d'un petit bassin avec des poissons rouges."
+    },
+    {
+        "name": "Jardin Barnier Mollard",
+        "address": "243 Boulevard Henri Barnier",
+        "url": "",
+        "description": "Un jardin public situé sur le boulevard Henri Barnier, dans le 12ème arrondissement. Il propose une grande variété d'arbres et de plantes, ainsi que des aires de jeux pour les enfants."
+    },
+    {
+        "name": "Parc Saint Theodore",
+        "address": "Allee des Bergeronnettes",
+        "url": "",
+        "description": "Un parc familial situé dans le 13ème arrondissement. Il offre de vastes espaces verts, des aires de jeux pour les enfants et des terrains de sport pour les adultes."
+    },
+    {
+        "name": "Parc du Vieux Moulin",
+        "address": "Boulevard de Saint Loup",
+        "url": "",
+        "description": "Un grand parc situé dans le 10ème arrondissement. Il dispose d'un lac artificiel avec des canards et des cygnes, ainsi que de nombreux chemins pour se promener ou faire du vélo."
+    },
+    {
+        "name": "Parc Varella",
+        "address": "Boulevard Provencal",
+        "url": "",
+        "description": "Un parc public situé dans le 9ème arrondissement. Il dispose d'un grand espace de pelouse pour se détendre, ainsi que d'une aire de jeux pour les enfants."
+    },
+    {
+        "name": "Parc Chanot",
+        "address": "Boulevard Michelet",
+        "url": "",
+        "description": "Un parc urbain situé dans le 8ème arrondissement. Il offre un grand espace vert pour se promener, ainsi que des installations sportives et un espace de jeux pour les enfants."
+    },
+    {
+        "name": "Jardin de la Colline Puget",
+        "address": "Rue de l'Abbe d'Assy",
+        "url": "",
+        "description": "Un jardin public situé sur la colline Puget, dans le 6ème arrondissement. Il propose une vue imprenable sur la ville, ainsi qu'un petit jardin botanique avec une grande variété de plantes."
+    },
+    {
+        "name": "Jardin de Corbieres",
+        "adresse": "Route du rove",
+        "url": "https://www.marseille.fr/lieux-de-vie-et-de-culture/parcs-jardins/jardin-de-corbieres",
+        "description": "Le Jardin de Corbieres est un petit parc paisible situé sur la Route du Rove. Il offre une belle vue sur la ville de Marseille et les montagnes environnantes."
+    },
+    {
+        "name": "Jardin Emile Duclaux",
+        "adresse": "Boulevard Charles Livon",
+        "url": "https://www.marseille.fr/lieux-de-vie-et-de-culture/parcs-jardins/jardin-emile-duclaux",
+        "description": "Le Jardin Emile Duclaux est un grand parc situé sur le Boulevard Charles Livon, en bordure de mer. Il offre de beaux espaces verts et de nombreuses installations pour les loisirs et les sports."
+    },
+    {
+        "name": "Parc Borely",
+        "adresse": "46 avenue du Parc Borely",
+        "url": "https://www.marseille.fr/lieux-de-vie-et-de-culture/parcs-jardins/parc-borely",
+        "description": "Le Parc Borely est l'un des plus grands parcs de Marseille, situé dans le 8ème arrondissement. Il offre de vastes étendues d'herbe, des jardins à la française, un lac, un château et de nombreux équipements de loisirs."
+    },
+    {
+        "name": "Parc Bortoli",
+        "adresse": "Chemin du Lancier",
+        "url": "https://www.marseille.fr/lieux-de-vie-et-de-culture/parcs-jardins/parc-bortoli",
+        "description": "Le Parc Bortoli est un petit parc urbain situé sur le Chemin du Lancier. Il offre une agréable promenade ombragée et des aires de jeux pour les enfants."
+    },
+    {
+        "name": "Parc de la Mirabelle",
+        "adresse": "Avenue William Booth",
+        "url": "https://www.marseille.fr/lieux-de-vie-et-de-culture/parcs-jardins/parc-de-la-mirabelle",
+        "description": "Le Parc de la Mirabelle est un petit parc urbain situé dans le 14ème arrondissement. Il offre une aire de jeux pour les enfants, une table de ping-pong et des espaces verts pour se détendre."
+    },
+    {
+        "name": "Parc Longchamp",
+        "address": "Boulevard du Jardin zoologique, 13004 Marseille, France",
+        "url": "",
+        "description": "Le Parc Longchamp est un parc de style anglais situé dans le 4ème arrondissement de Marseille. Il est célèbre pour sa magnifique fontaine qui fut construite à la fin du 19ème siècle pour commémorer l'arrivée de l'eau de la Durance à Marseille. Le parc abrite également le Palais Longchamp, un monument historique qui abrite le musée des Beaux-Arts et le muséum d'histoire naturelle de Marseille."
+    },
+    {
+        "name": "Parc de la Ravelle",
+        "address": "Rues des Hauts Bois, 13012 Marseille, France",
+        "url": "",
+        "description": "Le Parc de la Ravelle est un parc situé dans le 12ème arrondissement de Marseille. Il s'étend sur une superficie de 4 hectares et offre une vue panoramique sur la ville. Le parc est connu pour son parcours de santé et ses aires de jeux pour enfants."
+    },
+    {
+        "name": "Parc Valmer",
+        "address": "Corniche JF Kennedy, 13007 Marseille, France",
+        "url": "",
+        "description": "Le Parc Valmer est un parc de 5 hectares situé dans le 7ème arrondissement de Marseille. Il offre une vue imprenable sur la mer et les îles du Frioul. Le parc est connu pour ses jardins botaniques et son théâtre en plein air qui accueille des concerts et des spectacles tout au long de l'été."
+    },
+    {
+        "name": "Parc du Ginestet",
+        "address": "Avenue de Valdonne, 13013 Marseille, France",
+        "url": "",
+        "description": "Le Parc du Ginestet est un parc de 12 hectares situé dans le 13ème arrondissement de Marseille. Il est connu pour son lac artificiel, qui est alimenté par la source de la Pounche, ainsi que pour sa grande diversité d'oiseaux et de plantes."
+    },
+    {
+        "name": "Parc de la Minerve",
+        "address": "Rue Roger Chieusse, 13008 Marseille, France",
+        "url": "",
+        "description": "Le Parc de la Minerve est un petit parc situé dans le 8ème arrondissement de Marseille. Il est connu pour son monument en hommage à la résistance marseillaise pendant la Seconde Guerre mondiale."
+    },
+    {
+        "name": "Parc Henri Fabre",
+        "address": "Boulevard de Gabes, 13008 Marseille, France",
+        "url": "",
+        "description": "Le Parc Henri Fabre est un parc de 3 hectares situé dans le 8ème arrondissement de Marseille. Il est nommé d'après Henri Fabre, un ingénieur et inventeur français qui a conçu et piloté le premier hydravion réussi. Le parc est connu pour ses aires de jeux pour enfants et son terrain de pétanque."
+    },
+    {
+        "name": "Parc de Font Obscure",
+        "url": "",
+        "address": "Avenue Prosper Merimee",
+        "description": "Le Parc de Font Obscure est un parc public situé dans le 9ème arrondissement de Marseille. Il est connu pour ses grandes allées ombragées et ses aires de jeux pour enfants."
+    },
+    {
+        "name": "Parc Francois Billoux",
+        "url": "",
+        "address": "246 rue de Lyon",
+        "description": "Le Parc Francois Billoux est un parc public situé dans le 15ème arrondissement de Marseille. Il offre des espaces verts, des aires de jeux pour enfants et des terrains de sport."
+    },
+    {
+        "name": "Jardin du Bois Sacre",
+        "address": "Rue du bois Sacre",
+        "url": "",
+        "description": "Le Jardin du Bois Sacre est un parc public situé dans le 12ème arrondissement de Marseille. Il est connu pour son ambiance paisible et son cadre verdoyant, propice à la promenade et à la détente."
+    },
+    {
+        "name": "Domaine de Luminy",
+        "address": "Route Leon Lachamp",
+        "url": "",
+        "description": "Le Domaine de Luminy est un parc public situé dans le 9ème arrondissement de Marseille. Il est connu pour ses vastes espaces verts et son cadre naturel préservé, offrant des vues panoramiques sur la ville et la mer."
+    },
+    {
+        "name": "Parc du Grand Seminaire",
+        "address": "Avenue Paul Coxe",
+        "url": "",
+        "description": "Le Parc Central de Bonneveine est un parc public situé dans le 8ème arrondissement de Marseille. Il offre des espaces verts, des aires de jeux pour enfants et des équipements sportifs."
+    },
+    {
+        "name": "Parc de la Maison Blanche",
+        "address": "Boulevard Paul claudel",
+        "url": "",
+        "description": "Le Parc de la Maison Blanche est un parc public situé dans le 9ème arrondissement de Marseille. Il offre des espaces verts, des aires de jeux pour enfants et des équipements sportifs."
+    },
+    {
+        "name": "Parc Pastre",
+        "address": "Avenue de Montredon",
+        "url": "",
+        "description": "Le Parc Pastre est un parc public situé dans le 8ème arrondissement de Marseille. Il est connu pour ses vastes espaces verts, son calme et sa tranquillité, propices à la détente et à la promenade."
+    },
+    {
+        "name": "Parc Bregante",
+        "address": "Avenue de la Viste",
+        "description": "Le parc Bregante est un petit parc situé dans le 15ème arrondissement de Marseille, offrant un espace vert agréable pour se détendre et se promener."
+    },
+    {
+        "name": "Parc Saint Cyr",
+        "address": "Boulevard de la Valbarelle",
+        "description": "Le parc Saint Cyr est un grand parc situé dans le 11ème arrondissement de Marseille, offrant une grande variété d'activités pour les visiteurs, notamment des aires de jeux, des terrains de sport et des sentiers de randonnée."
+    },
+    {
+        "name": "Parc de Bagatelle",
+        "address": "Rue du Commandant Rolland",
+        "description": "Le parc de Bagatelle est un parc public situé dans le 8ème arrondissement de Marseille, offrant des espaces verts paisibles pour se détendre et des aires de jeux pour les enfants."
+    },
+    {
+        "name": "Parc de la Pelouque",
+        "address": "Chemin de la Pelouque",
+        "description": "Le parc de la Pelouque est un petit parc situé dans le 15ème arrondissement de Marseille, offrant un espace vert agréable pour se détendre et se promener."
+    },
+    {
+        "name": "Parc de L'Esperance",
+        "address": "Boulevard Charles Moretti",
+        "description": "Le parc de L'Esperance est un grand parc situé dans le 14ème arrondissement de Marseille, offrant des aires de jeux pour les enfants, des terrains de sport et des sentiers de randonnée."
+    },
+    {
+        "name": "Parc des Bruyeres",
+        "address": "Chemin des Prud'hommes",
+        "description": "Le parc des Bruyeres est un petit parc situé dans le 13ème arrondissement de Marseille, offrant un espace vert agréable pour se détendre et se promener."
+    },
+    {
+        "name": "Parc de l'Oasis",
+        "address": "Chemin de Saint Antoine a Saint Joseph",
+        "description": "Le parc de l'Oasis est un petit parc situé dans le 9ème arrondissement de Marseille, offrant des espaces verts paisibles pour se détendre et des aires de jeux pour les enfants."
+    },
+    {
+        "name": "Parc du 26eme centenaire",
+        "address": "Place Zino Francescatti",
+        "url": "",
+        "description": "Le parc du 26ème centenaire est un grand parc situé dans le 8ème arrondissement de Marseille, offrant des aires de jeux pour les enfants, des terrains de sport et des sentiers de randonnée."
+    },
+    {
+        "name": "Parc de la Colline Saint Joseph",
+        "address": "Boulevard du Redon",
+        "url": "",
+        "description": "Le parc de la Colline Saint Joseph est un grand parc situé dans le 9ème arrondissement de Marseille, offrant des vues panoramiques sur la ville et des sentiers de randonnée."
+    },
+    {
+        "name": "Parc Balneaire du Prado",
+        "address": "Avenue Georges Pompidou",
+        "url": "",
+        "description": "Le Parc Balnéaire du Prado est un parc situé sur l'avenue Georges Pompidou à Marseille, en bord de mer. Il offre une vue magnifique sur la Méditerranée et dispose d'une grande variété d'espaces verts, de terrains de sport et de loisirs pour toute la famille."
+    },
+    {
+        "name": "Parc de la Moline",
+        "address": "Bd Marius Richard",
+        "url": "",
+        "description": "Le Parc de la Moline est un parc public situé sur le boulevard Marius Richard à Marseille. Il dispose d'une grande variété d'espaces verts, de chemins de promenade, d'une aire de jeux pour les enfants et de terrains de sport pour les amateurs de sport en plein air."
+    },
+    {
+        "name": "Parc Athena",
+        "address": "rue Abert Einstein",
+        "url": "",
+        "description": "Le Parc Athena est un parc public situé dans le quartier de la Valentine à Marseille. Il dispose d'espaces verts, de terrains de sport, d'une aire de jeux pour enfants et d'un parcours de santé pour les plus sportifs."
+    }
+]
